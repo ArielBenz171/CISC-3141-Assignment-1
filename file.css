@@ -1,6 +1,12 @@
 body{
-    background-color: #9932CC;
+    background-color: #ffffff;
 }
-.wow{
-    color: #32cc3f;
+ol{
+    list-style-type: none;
+}
+table, th, td {
+    border: 1px solid rgb(255, 0, 0);
+}
+img{
+    border: 5px solid #92118c;
 }
