@@ -15,8 +15,8 @@ in pdf or word document.<br/><br/>
 3rd page: Diagram<br/>
 4th page: Screenshot of your website/webpage<br/><br/>
 
-### Grading: Project #1 is 20% of your overall course grade. The project itself will be graded out of 100 points.
-**Below is the grade breakdown of the project out of 100 points:**<br/>
+### Grading: 
+**Project #1 is 20% of your overall course grade. The project itself will be graded out of 100 points. Below is the grade breakdown of the project out of 100 points:**<br/>
 1. Project Proposal/Problem Statement: 10% - I will not be assigning what the project theme will be.
 It is up to you to present clearly on a single page what your website/webpage is about and the
 inspiration behind it.
@@ -37,4 +37,48 @@ Below are a few suggestions for your first project. You can choose something els
 1. Blog Page
 2. Landing Page
 3. New Product Launch Page
-4. Information Page 
+4. Information Page <br/> <br/>
+
+#	Site Description 
+Information site. Basic site on HTML and CSS with a focus on CSS…..<br/>
+
+## Outline
+- Home – Root (Top level – parent page)
+- - (Navigation Bar) / (Menu)
+- - Some description of HTML & CSS (or whatever the content is)
+- - Picture
+- Syntax – HTML (child page)
+- - Basic structure (sandwich): DOCTYPE, head, body, title, etc.
+- - Tags
+- - - Regular tags <></>
+- - - - List 🡪 ``` <ol></ol>, <ul></ul> ```
+- - - - Tables 🡪 ``` <table></table>, <tr></tr> ```
+- - - - ``` <p></p> ```
+- - - Special tags </>
+- - - - ``` <img/> ```
+- - - - Tags/HTML document 🡪 
+- - Dealing with order
+- - - Explain hierarchy: parents, children, grandchildren 
+- - - - Insert an image of the hierarchy (to support the words that you have on the site)
+- Syntax – CSS (child page)
+- - Selectors
+- - Properties
+- - Classes/Id
+- - Values
+- Styling (child page)
+- - Colors & Background
+- - - Different ways to code colors: hardcode (hex), type the actual color name (red, blue green)
+- - - Importance of color coordination/Shade – type of shade is important to the theme
+- - Background Images
+- - - Size 
+- - - Repeat
+- Contact (child page)
+- - Email , Phone Number (Text)
+- - [ Email (Image 🡪 with popup to sender) ] – maybe we want it this way (???)
+- - Social Media Links (Facebook, Instagram, LinkedIn, Twitter, etc.) – (Image w/hyperlink)
+
+- Notes: When creating your outline, make sure to separate each concept/idea
+
+### Diagram
+
+![Alt text](https://imgur.com/a/rgCAPXd)
