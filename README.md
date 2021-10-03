@@ -81,4 +81,4 @@ Information site. Basic site on HTML and CSS with a focus on CSS…..<br/>
 
 ### Diagram
 
-![Alt text](https://imgur.com/a/rgCAPXd)
+![D](https://i.imgur.com/H7hv0RX.jpeg)
