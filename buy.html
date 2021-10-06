@@ -6,6 +6,19 @@
     <title>
         Buy Now - The Pit
     </title>
+    <style>
+body{
+    text-align: center;
+}
+.square {
+    height: 400px;
+    width: 800px;
+    position: absolute;
+    top: 160px;
+    left: 250px;
+    background-color: #FF69B4;
+}
+    </style>
 </head>
 <body>
     <div class = nav>
@@ -20,9 +33,24 @@
             <a href = "about.html"><text x = "1165" y = "30" font-family="Verdana" font-size="32" fill="#FFFFFF">About</text></a>
         </svg>
     </div>
+    <h1 style = "text-align: center;">Buy Now:</h1>
     <div class = "price">
-        <p>You can schedule and buy your trip for a small price of $5000 dollars.</p>
-        <p>50% off for all children under the age of 5 days!</p>
+        <p>You can schedule and buy your trip for a three small payments of $5000 dollars. 50% off for all children under the age of 5 days! </p>
+    </div>
+    <div class="square">
+        <form action="paid.html" style = "position: absolute; top: 60px; left: 250px">
+            <label for="fname">First name:</label>
+            <input type="text" id="fname" name="fname"><br><br>
+            <label for="lname">Last name:</label>
+            <input type="text" id="lname" name="lname"><br><br>
+            <label for="ccNum">Credit Card Number:</label>
+            <input type="text" id="ccNum" name="ccNum"><br><br>
+            <label for="sCode">Security Code:</label>
+            <input type="text" id="sCode" name="sCode"><br><br>
+            <label for="date">Date of Jump:</label>
+            <input type="text" id="date" name="date"><br><br>
+            <input type="submit" value="Submit">
+        </form>
     </div>
 </body>
 </html>
