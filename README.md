@@ -40,7 +40,9 @@ Below are a few suggestions for your first project. You can choose something els
 4. Information Page <br/> <br/>
 
 #	Site Description 
-Information site. Basic site on HTML and CSS with a focus on CSS…..<br/>
+Have you ever seen on of those as seen on TV ads that promotes a product which asks a dim-witted and nonsensical problem that the product intends to solve and the product ends up not working at all. (Example: https://www.youtube.com/watch?v=RoG0vv-twCA) An idea that is a complete and utter scam just to grab as much money as possible. That’s where the idea of my project started, I wanted to create a website that simulated this. After I thought of the idea that we all have as kids, where if we were to dig a whole to the other side of the planet where would we be. This idea is called an antipode and has a decent amount of work and research on it. So, with these two ideas combined I built my site, “The Pit”. 
+
+The site sells you the idea of traveling through a pit from one side of the planet to another. I used a website I found in order to find an antipode to use for the site and I found one between Christchurch, New Zealand and A Coruña, Spain. Then I fleshed out the site to include multiple pages which can be accessed via the navbar. The home page is there to suck you in and buy immediately without knowing what the product even is. The about page actually explains what is going on. The times page shows a table with the location of the antipodes and the times when to jump. Finally, the buy page is a mock purchasing form which leads you to a buy page congratulating you on the purchase. <br/>
 
 ## Outline
 - Index
@@ -214,4 +216,4 @@ Information site. Basic site on HTML and CSS with a focus on CSS…..<br/>
 
 ### Diagram
 
-![D](https://imgur.com/a/vaxQP8d)
+![D](images/CISC3141Project1Outline.png)
