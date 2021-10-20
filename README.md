@@ -43,42 +43,175 @@ Below are a few suggestions for your first project. You can choose something els
 Information site. Basic site on HTML and CSS with a focus on CSS…..<br/>
 
 ## Outline
-- Home – Root (Top level – parent page)
-- - (Navigation Bar) / (Menu)
-- - Some description of HTML & CSS (or whatever the content is)
-- - Picture
-- Syntax – HTML (child page)
-- - Basic structure (sandwich): DOCTYPE, head, body, title, etc.
-- - Tags
-- - - Regular tags <></>
-- - - - List 🡪 ``` <ol></ol>, <ul></ul> ```
-- - - - Tables 🡪 ``` <table></table>, <tr></tr> ```
-- - - - ``` <p></p> ```
-- - - Special tags </>
-- - - - ``` <img/> ```
-- - - - Tags/HTML document 🡪 
-- - Dealing with order
-- - - Explain hierarchy: parents, children, grandchildren 
-- - - - Insert an image of the hierarchy (to support the words that you have on the site)
-- Syntax – CSS (child page)
-- - Selectors
-- - Properties
-- - Classes/Id
-- - Values
-- Styling (child page)
-- - Colors & Background
-- - - Different ways to code colors: hardcode (hex), type the actual color name (red, blue green)
-- - - Importance of color coordination/Shade – type of shade is important to the theme
-- - Background Images
-- - - Size 
-- - - Repeat
-- Contact (child page)
-- - Email , Phone Number (Text)
-- - [ Email (Image 🡪 with popup to sender) ] – maybe we want it this way (???)
-- - Social Media Links (Facebook, Instagram, LinkedIn, Twitter, etc.) – (Image w/hyperlink)
-
-- Notes: When creating your outline, make sure to separate each concept/idea
+- Index
+- - Home
+- - - Syntax
+- - - - HTML
+- - - - - html
+- - - - - head
+- - - - - title
+- - - - - body
+- - - - - style
+- - - - - div
+- - - - - svg
+- - - - - rect
+- - - - - a
+- - - - - image
+- - - - - text
+- - - - - img
+- - - - - p
+- - - - CSS
+- - - - - background-color
+- - - - - color
+- - - - - list-style-type
+- - - - - font-family
+- - - - - font-size
+- - - - - fill
+- - - - - position
+- - - - - border
+- - - - - box-sizing
+- - - - - border-box
+- - - - - left
+- - - - - top
+- - - - - width
+- - - Styling
+- - - - Fill: Blue
+- - - - Text: White/Pink
+- - - - Navbar: Pink
+- - About
+- - - Syntax
+- - - - HTML
+- - - - - html
+- - - - - head
+- - - - - title
+- - - - - body
+- - - - - style
+- - - - - div
+- - - - - svg
+- - - - - rect
+- - - - - a
+- - - - - image
+- - - - - text
+- - - - - p
+- - - - - ol
+- - - - - li
+- - - - - br
+- - - - CSS
+- - - - - background-color
+- - - - - color
+- - - - - list-style-type
+- - - - - font-family
+- - - - - font-size
+- - - - - fill
+- - - - - position
+- - - - - border
+- - - - - text-align
+- - - Styling
+- - - - Fill: Blue
+- - - - Text: White
+- - - - Navbar: Pink
+- - Times
+- - - Syntax
+- - - - HTML
+- - - - - html
+- - - - - head
+- - - - - title
+- - - - - body
+- - - - - style
+- - - - - div
+- - - - - svg
+- - - - - rect
+- - - - - a
+- - - - - image
+- - - - - text
+- - - - - table
+- - - - - tr
+- - - - - th
+- - - - - td
+- - - - - ul
+- - - - - li
+- - - - CSS
+- - - - - background-color
+- - - - - color
+- - - - - list-style-type
+- - - - - font-family
+- - - - - font-size
+- - - - - fill
+- - - - - position
+- - - - - border
+- - - - - top
+- - - - - left
+- - - Styling
+- - - - Fill: Blue
+- - - - Text: White
+- - - - Navbar: Pink
+- - Buy
+- - - Syntax
+- - - - HTML
+- - - - - html
+- - - - - head
+- - - - - title
+- - - - - body
+- - - - - style
+- - - - - div
+- - - - - svg
+- - - - - rect
+- - - - - a
+- - - - - image
+- - - - - text
+- - - - - h1
+- - - - - form
+- - - - - label
+- - - - - input
+- - - - CSS
+- - - - - background-color
+- - - - - color
+- - - - - list-style-type
+- - - - - font-family
+- - - - - font-size
+- - - - - fill
+- - - - - position
+- - - - - border
+- - - - - top
+- - - - - left
+- - - - - height
+- - - - - width
+- - - Styling
+- - - - Fill: Blue
+- - - - Text: White
+- - - - Navbar: Pink
+- - - Paid
+- - - - Syntax
+- - - - - HTML
+- - - - - - html
+- - - - - - head
+- - - - - - title
+- - - - - - body
+- - - - - - style
+- - - - - - div
+- - - - - - svg
+- - - - - - rect
+- - - - - - a
+- - - - - - image
+- - - - - - text
+- - - - - - ul
+- - - - - - li
+- - - - - CSS
+- - - - - - background-color
+- - - - - - color
+- - - - - - list-style-type
+- - - - - - font-family
+- - - - - - font-size
+- - - - - - fill
+- - - - - - position
+- - - - - - border
+- - - - - - top
+- - - - - - left
+- - - - Styling
+- - - - - Fill: Blue
+- - - - - Text: White
+- - - - - Navbar: Pink
 
 ### Diagram
 
-![D](https://i.imgur.com/H7hv0RX.jpeg)
+![D](https://imgur.com/a/vaxQP8d)
